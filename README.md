@@ -1,2 +1,3 @@
 # undergraduate
 机器学习决策树
+因为python库matplotlib绘制图片会出现节点重叠，所以采用graphviz进行绘制
